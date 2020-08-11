@@ -1,0 +1,36 @@
+.homeMenu{
+    float:right;
+    padding-right:30px;
+
+}
+
+.site-layout-content{
+    background-color:#fff !important;
+}
+
+.ant-input-search{
+    width:70% !important;
+    padding-left:100px;
+
+
+}
+
+.ant-input-search-button{
+    background-color: red !important;
+    color:#fff;
+    border:none;
+    height:40px;
+
+
+}
+
+.ant-input-group-wrapper{
+    width:90%;
+    margin-bottom:40px !important;
+
+}
+
+.site-layout-content{
+    padding:30px;
+}
+
